@@ -1,0 +1,36 @@
+
+body{
+    background-color: rgb(75, 219, 75);
+}
+.select{
+    float: right;
+    font-size: larger;
+    a{
+        color: black;
+        text-decoration: none;
+        padding: 5px;
+    }
+
+}
+.para{
+ width: 180px;    
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+}
+.section{
+    width: 200;
+    height: 220;
+    border: 2px;
+    border: solid;
+    margin-left: 15rem;
+    margin-top: 10rem;
+    
+}
+.container {
+    display: inline-flex;
+    margin-left: 40PX;
+}

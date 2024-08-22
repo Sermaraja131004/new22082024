@@ -1,0 +1,32 @@
+.select{
+    a{
+        font-family: Arial;
+        color: black;
+        text-decoration: none;
+        padding: 5px;
+    }
+    margin-top: 10px;
+    float:right;  
+    display: inline;
+}
+.select a:hover{
+    background-color: darkgreen;
+    border-radius: 10px;
+}
+body{
+    background-color: greenyellow;
+}
+.ss{
+    display: flex;
+    padding-top: 100px;
+    img{    
+        border-radius: 20px;
+    }
+
+}
+.tt{
+    display: flex;
+   img{
+    border-radius: 20px;
+   }
+}
